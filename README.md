@@ -1,6 +1,9 @@
 # CCGLAM
 Assignments for the January 2024 Edition of the CC Certificate for Open Culture (GLAM)
 
+Assignment 1: [What Is Creative Commons? Getting Started With Open Culture For GLAM](https://github.com/vgdlandau/CCGLAM/blob/main/CC-LandauVictoriaGD_Assignment1_20240204.pdf)
+
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
