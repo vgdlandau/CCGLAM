@@ -1,8 +1,8 @@
 # CCGLAM
 Assignments for the January 2024 Edition of the CC Certificate for Open Culture (GLAM)
 
-Assignment 1: [What Is Creative Commons? Getting Started With Open Culture For GLAM](https://github.com/vgdlandau/CCGLAM/blob/main/CC-LandauVictoriaGD_Assignment1_20240204.pdf)
-Assignment 2: [What Do I Need To Know About Copyright? Situating Copyright Law And What It Means For Open Culture](https://github.com/vgdlandau/CCGLAM/blob/main/CC-LandauVictoriaGD_Assignment2_20240218.pdf)
+Assignment 1: [What Is Creative Commons? Getting Started With Open Culture For GLAM](https://github.com/vgdlandau/CCGLAM/blob/main/CC-LandauVictoriaGD_Assignment1_20240204.pdf) <br />
+Assignment 2: [What Do I Need To Know About Copyright? Situating Copyright Law And What It Means For Open Culture](https://github.com/vgdlandau/CCGLAM/blob/main/CC-LandauVictoriaGD_Assignment2_20240218.pdf) <br />
 Assignment 3: [Why Use A Creative Commons License? Understanding Licensing For Open Culture](https://github.com/vgdlandau/CCGLAM/blob/main/CC-LandauVictoriaGD_Assignment3_20240303.pdf)
 
 <br />
